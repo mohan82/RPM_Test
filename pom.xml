@@ -4,7 +4,7 @@
 
     <groupId>RPM-Test</groupId>
     <artifactId>RPM-Test</artifactId>
-    <version>1.0</version>
+    <version>5.0</version>
     <packaging>jar</packaging>
 
     <name>RPM-Test</name>

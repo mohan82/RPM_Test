@@ -1,5 +1,5 @@
 Name: RPM-Test
-Version: 1.0
+Version: 5.0
 Release: 1
 Summary: RPM-Test
 License: 2010, NoBody
